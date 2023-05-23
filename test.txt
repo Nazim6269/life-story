@@ -1,2 +1,7 @@
-This is Nazim Uddin ,born in 2001,ssc 2017, hsc 2019. Now study at University of chittagong. Aim to be a web developer
+This is Nazim Uddin 
+born in 2001
+Passed ssc 2017
+Passed hsc 2019
+Now studying at University of chittagong
+Aim to be a web developer
 
